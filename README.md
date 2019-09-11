@@ -1,5 +1,5 @@
 # NRC20 Governance Web Tool
-This is the repo that hold our [web tool](https://atlasprotocol.github.io/#/) using Github Pages.
+This is the repo that hold our [web tool](https://atlasprotocol.github.io/governance/#/) using Github Pages.
 
 ## How To Use
 
