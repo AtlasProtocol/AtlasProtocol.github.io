@@ -44,3 +44,7 @@ NRC20 governance tool supports 2 way of signing & broadcasting
 
 ## Contribution
 If you have any question about this tool or interested in contributing, please feel free to open an issue. 
+
+## Disclaimer
+This open source tool (MSNGov) is created by Atlas Protocol as a proof-of-concept for on-chain asset governance. Atlas Protocol SHOULD NOT be hold responsible for any incident like lost of asset caused by ANYONE using this tool.
+Users are free to use and modify it to suit their need. By using it, you acknowledge that this tool is still an early prototype and a decent amount of your own effort should be put in to assess and evalute this tool and you COULD NOT hold Atlas Protocol responsible for any misuse and lost of asset.
